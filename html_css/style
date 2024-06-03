@@ -1,0 +1,20 @@
+/* pr les header gérer la taille de la police, centrer et colorier */
+
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7472
+}
+
+/* gerer l'alignement et la taille du text dans balise p */
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+/* colorier les balise body */
+body {
+background-color: #CCCCCC;
+
+}
